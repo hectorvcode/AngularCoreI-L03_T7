@@ -1,0 +1,29 @@
+section.section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(204, 241, 253);
+    height: auto;
+    width: 100vw;
+    padding: 10%;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+section h1 {
+    color: darkblue;
+    font-size: 50px;
+    margin-bottom: 25px;
+}
+
+section button{
+    width: 150px;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 8px;
+}
+
+section a{
+    font-size: 20px;
+}
